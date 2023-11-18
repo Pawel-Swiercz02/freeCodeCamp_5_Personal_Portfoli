@@ -1,2 +1,2 @@
-# freeCodeCamp_5_Personal_Portfoli
+# freeCodeCamp_5_Personal_Portfolio
 freeCodeCamp_5_Personal_Portfolio
