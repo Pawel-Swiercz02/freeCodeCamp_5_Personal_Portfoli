@@ -159,6 +159,7 @@ html {
 /* CONTACT SECTION */
 #contact-section {
     height: calc(100vh - 11.8rem); /* Full viewport height minus header + footer + a little bit for looks */
+    min-height: 600px;
     background: var(--background-color);
     text-align: center;
     display: flex;
